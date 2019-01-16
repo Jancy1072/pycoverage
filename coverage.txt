@@ -1,0 +1,5 @@
+/home/wangjiachun/Downloads/coverage/pycoverage/case1.py
+output,add
+('<module>', 'add');('add', 'output')
+3,7,12,13,16,8,9,4,10,19,20,25,26,25,26,25,26,25,26,25,26,25
+(19, 20);(25, 26);(25, 26);(25, 26);(25, 26);(25, 26);(25, -1)

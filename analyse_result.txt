@@ -1,0 +1,25 @@
+call: ['output', 'add']
+call tree: {'<module>': ['add'], 'add': ['output']}
+not cal: []
+call number: 2
+not call number: 0
+function coverage: 100.0%
+
+
+executable lines: 14
+executed lines: 13
+missing lines: 1
+statement coverage: 92.8571428571%
+
+
+branch: 4
+missing branch: 1
+branch coverage: 75.0%
+
+
+executable bytes: 61
+executed bytes: 54
+byte coverage: 88.5245901639%
+
+
+all coverage: 88.8888888889%

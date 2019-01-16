@@ -1,0 +1,22 @@
+line 3: def output(string):
+line 7: def add(x, y):
+line 12: a = 2
+line 13: b = 3
+line 16: sum = add(a, b)
+line 8:     z = x + y
+line 9:     output(str(z)) # 调用output函数
+line 4:     print(string)
+line 10:     return z
+line 19: if sum < 10 or sum>100:
+line 20:     print("if true")
+line 25: for i in range(5):
+line 26:     print(i)
+line 25: for i in range(5):
+line 26:     print(i)
+line 25: for i in range(5):
+line 26:     print(i)
+line 25: for i in range(5):
+line 26:     print(i)
+line 25: for i in range(5):
+line 26:     print(i)
+line 25: for i in range(5):
